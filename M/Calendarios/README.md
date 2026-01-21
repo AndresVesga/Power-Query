@@ -16,7 +16,7 @@ Esta carpeta contiene un conjunto de **funciones y tablas en lenguaje M (Power Q
   - `CalendarioFestividadesPorRango.m` → Genera calendario consolidado de festividades para un rango de años.  
   - `getISO8601Week.m` → Función para calcular el número de semana ISO-8601.  
 
-- **Ejemplo.pbix**  
+- **DimCalendario.pbix**  
   Archivo en Power BI Desktop que implementa todas las funciones y tablas incluidas en `M/`.  
   Sirve como **demo práctica** y referencia de uso.
 
@@ -24,6 +24,6 @@ Esta carpeta contiene un conjunto de **funciones y tablas en lenguaje M (Power Q
 
 ## 🚀 Cómo usar este repositorio
 
-1. Descarga o clona este repositorio.  
+1. Descarga pbix o clona este repositorio.  
    ```bash
    git clone https://github.com/AndresVesga/Calendario
